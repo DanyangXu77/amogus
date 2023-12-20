@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Play Word Search - IQuTest.com</title>
+	<meta name="description" content="Play the word search puzzle, find all the words and complete the word search, Play now!" />
+	<link rel="canonical" href="https://www.iqutest.com/game/word-search" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Play Word Search - IQuTest.com" />
+	<meta property="og:description" content="Play the word search puzzle, find all the words and complete the word search, Play now!" />
+	<meta property="og:url" content="https://www.iqutest.com/game/word-search" />
+	<meta property="og:site_name" content="IQuTest.com" />
+	<meta property="article:publisher" content="http://fb.me/IQuTestOnline" />
+	<meta property="og:image" content="https://www.iqutest.com/wp-content/uploads/2023/10/Word-Search-Game.jpg" />
+	<meta property="og:image:width" content="956" />
+	<meta property="og:image:height" content="500" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@IQuTestcom" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.iqutest.com/game/word-search","url":"https://www.iqutest.com/game/word-search","name":"Play Word Search - IQuTest.com","isPartOf":{"@id":"https://www.iqutest.com/#website"},"primaryImageOfPage":{"@id":"https://www.iqutest.com/game/word-search#primaryimage"},"image":{"@id":"https://www.iqutest.com/game/word-search#primaryimage"},"thumbnailUrl":"https://www.iqutest.com/wp-content/uploads/2023/10/Word-Search-Game.jpg","datePublished":"2023-10-24T06:33:00+00:00","dateModified":"2023-10-24T06:33:00+00:00","description":"Play the word search puzzle, find all the words and complete the word search, Play now!","breadcrumb":{"@id":"https://www.iqutest.com/game/word-search#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.iqutest.com/game/word-search"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.iqutest.com/game/word-search#primaryimage","url":"https://www.iqutest.com/wp-content/uploads/2023/10/Word-Search-Game.jpg","contentUrl":"https://www.iqutest.com/wp-content/uploads/2023/10/Word-Search-Game.jpg","width":956,"height":500,"caption":"Word Search Game"},{"@type":"BreadcrumbList","@id":"https://www.iqutest.com/game/word-search#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.iqutest.com/"},{"@type":"ListItem","position":2,"name":"Word Search"}]},{"@type":"WebSite","@id":"https://www.iqutest.com/#website","url":"https://www.iqutest.com/","name":"IQuTest.com","description":"Test Your IQ &amp; Brain","publisher":{"@id":"https://www.iqutest.com/#organization"},"alternateName":"IQuTest","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.iqutest.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.iqutest.com/#organization","name":"IQuTest.com","alternateName":"IQuTest","url":"https://www.iqutest.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.iqutest.com/#/schema/logo/image/","url":"https://www.iqutest.com/wp-content/uploads/2017/10/IQuTest_logo.png","contentUrl":"https://www.iqutest.com/wp-content/uploads/2017/10/IQuTest_logo.png","width":189,"height":64,"caption":"IQuTest.com"},"image":{"@id":"https://www.iqutest.com/#/schema/logo/image/"},"sameAs":["http://fb.me/IQuTestOnline","https://twitter.com/IQuTestcom","https://www.instagram.com/iqutest/","https://www.pinterest.com/iqutest/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="IQuTest.com &raquo; Feed" href="https://www.iqutest.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="IQuTest.com &raquo; Comments Feed" href="https://www.iqutest.com/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="IQuTest.com &raquo; Word Search Comments Feed" href="https://www.iqutest.com/game/word-search/feed" />
+<link rel='stylesheet' id='pt-cv-public-style-css' href='https://www.iqutest.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-public-pro-style-css' href='https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/css/cvpro.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.iqutest.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.iqutest.com/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='iq-test-plugin-styles-css' href='https://www.iqutest.com/wp-content/plugins/iq-test/public/assets/css/public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-grid-css' href='https://www.iqutest.com/wp-content/themes/generatepress/css/unsemantic-grid.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://www.iqutest.com/wp-content/themes/generatepress/style.min.css' type='text/css' media='all' />
+<style id='generate-style-inline-css' type='text/css'>
+.entry-header .entry-meta {display:none;}.post-navigation {display:none;}.single footer.entry-meta {display:none;}
+body{background-color:#ffffff;color:#282828;}a, a:visited{color:#ff0000;}a:visited{color:#ff0000;}a:hover, a:focus, a:active{color:#ff4500;}body .grid-container{max-width:1000px;}body, button, input, select, textarea{font-family:Helvetica;}p{margin-bottom:1em;}.entry-content > [class*="wp-block-"]:not(:last-child){margin-bottom:1em;}.main-title{font-family:Helvetica;font-weight:normal;font-size:35px;}.site-description{font-family:Georgia, Times New Roman, Times, serif;}.main-navigation .main-nav ul ul li a{font-size:14px;}.widget-title{font-size:16px;}.sidebar .widget, .footer-widgets .widget{font-size:16px;}h1{font-family:Helvetica;font-weight:200;font-size:32px;}h2{font-family:Helvetica;font-weight:normal;font-size:24px;}h3{font-family:Helvetica;font-size:19px;}h4{font-family:Helvetica;font-size:18px;line-height:1.1em;}@media (max-width:768px){.main-title{font-size:30px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a,.top-bar a:visited{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:#f9f9f9;color:#282828;}.site-header a,.site-header a:visited{color:#ff0000;}.site-header a:hover{color:#ff4500;}.main-title a,.main-title a:hover,.main-title a:visited{color:#282828;}.site-description{color:#282828;}.main-navigation,.main-navigation ul ul{background-color:#222222;}.main-navigation .main-nav ul li a,.menu-toggle{color:#ffffff;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a{color:#ffffff;background-color:#3f3f3f;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#ffffff;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#3f3f3f;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#3f3f3f;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active{color:#3f3f3f;background-color:#3f3f3f;}.navigation-search input[type="search"]:focus{color:#ffffff;background-color:#3f3f3f;}.main-navigation ul ul{background-color:#3f3f3f;}.main-navigation .main-nav ul ul li a{color:#ffffff;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#4f4f4f;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{color:#282828;background-color:#ffffff;}.inside-article a,.inside-article a:visited,.paging-navigation a,.paging-navigation a:visited,.comments-area a,.comments-area a:visited,.page-header a,.page-header a:visited{color:#ff0000;}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:#ff4500;}.entry-header h1,.page-header h1{color:#282828;}.entry-title a,.entry-title a:visited{color:#282828;}.entry-title a:hover{color:#ff4500;}.entry-meta{color:#282828;}.entry-meta a,.entry-meta a:visited{color:#ff0000;}.entry-meta a:hover{color:#ff4500;}h1{color:#282828;}h2{color:#282828;}h3{color:#282828;}.sidebar .widget{color:#282828;background-color:#ffffff;}.sidebar .widget a,.sidebar .widget a:visited{color:#ff0000;}.sidebar .widget a:hover{color:#ff4500;}.sidebar .widget .widget-title{color:#282828;}.footer-widgets{color:#282828;background-color:#f9f9f9;}.footer-widgets a,.footer-widgets a:visited{color:#ff0000;}.footer-widgets a:hover{color:#ff4500;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#282828;background-color:#f4f4f4;}.site-info a,.site-info a:visited{color:#ff0000;}.site-info a:hover{color:#ff4500;}.footer-bar .widget_nav_menu .current-menu-item a{color:#ff4500;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#282828;background-color:#fefefe;border-color:#f1f1f1;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#282828;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.button:visited,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#ff0000;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#000000;background-color:#ff4500;}.generate-back-to-top,.generate-back-to-top:visited{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}.generate-back-to-top:hover,.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}.inside-header{padding:5px 20px 5px 20px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:10px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-10px;width:calc(100% + 20px);max-width:calc(100% + 20px);}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:10px 5px 10px 5px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-5px;width:calc(100% + 10px);max-width:calc(100% + 10px);}}.one-container.right-sidebar .site-main,.one-container.both-right .site-main{margin-right:10px;}.one-container.left-sidebar .site-main,.one-container.both-left .site-main{margin-left:10px;}.one-container.both-sidebars .site-main{margin:0px 10px 0px 10px;}.separate-containers .widget, .separate-containers .site-main > *, .separate-containers .page-header, .widget-area .main-navigation{margin-bottom:10px;}.right-sidebar.separate-containers .site-main{margin:10px 10px 10px 0px;}.left-sidebar.separate-containers .site-main{margin:10px 0px 10px 10px;}.both-sidebars.separate-containers .site-main{margin:10px;}.both-right.separate-containers .site-main{margin:10px 10px 10px 0px;}.both-right.separate-containers .inside-left-sidebar{margin-right:5px;}.both-right.separate-containers .inside-right-sidebar{margin-left:5px;}.both-left.separate-containers .site-main{margin:10px 0px 10px 10px;}.both-left.separate-containers .inside-left-sidebar{margin-right:5px;}.both-left.separate-containers .inside-right-sidebar{margin-left:5px;}.separate-containers .site-main{margin-top:10px;margin-bottom:10px;}.separate-containers .page-header-image, .separate-containers .page-header-contained, .separate-containers .page-header-image-single, .separate-containers .page-header-content-single{margin-top:10px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:10px;margin-bottom:10px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .mobile-bar-items a{padding-left:0px;padding-right:0px;line-height:20px;}.main-navigation .main-nav ul ul li a{padding:0px;}.main-navigation ul ul{width:100px;}.navigation-search input{height:20px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:0px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:0px;}.menu-item-has-children ul .dropdown-menu-toggle{padding-top:0px;padding-bottom:0px;margin-top:-0px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:0px;}.widget-area .widget{padding:10px 0px 10px 0px;}.footer-widgets{padding:20px;}.site-info{padding:10px 20px 10px 20px;}/* End cached CSS */
+.site-header{background-repeat:no-repeat;}
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css' href='https://www.iqutest.com/wp-content/themes/generatepress/css/mobile.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-blog-css' href='https://www.iqutest.com/wp-content/plugins/gp-premium/blog/functions/css/style-min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.iqutest.com/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.iqutest.com/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.iqutest.com/wp-content/plugins/iq-test/public/assets/js/jquery.countdown.js' id='iq-test-countdown-js'></script>
+<script type='text/javascript' src='https://www.iqutest.com/wp-content/plugins/iq-test/public/assets/js/moment.js' id='iq-test-moment-js'></script>
+<script type='text/javascript' src='https://www.iqutest.com/wp-content/plugins/iq-test/public/assets/js/public.js' id='iq-test-plugin-script-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=G-WN8HDZCN7J' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.iqutest.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-WN8HDZCN7J");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://www.iqutest.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.iqutest.com/wp-json/wp/v2/game/3092" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.iqutest.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.iqutest.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.3" />
+<link rel='shortlink' href='https://www.iqutest.com/?p=3092' />
+<link rel="alternate" type="application/json+oembed" href="https://www.iqutest.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.iqutest.com%2Fgame%2Fword-search" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.iqutest.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.iqutest.com%2Fgame%2Fword-search&#038;format=xml" />
+
+<link rel = "stylesheet" type="text/css" href = "https://www.iqutest.com/games/wordsearch/wordsearch.css">
+<script src = https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js></script>
+<meta name="generator" content="Site Kit by Google 1.114.0" />			<script id="letspush-sdk">(function(w,d, s, id) {
+				w.letspush=w.letspush||function(){(w.letspush.q=w.letspush.q||[]).push(arguments)};
+				var js, fjs = d.getElementsByTagName(s)[0];
+				js = d.createElement(s); js.id = id;
+				js.src = "https://www.iqutest.com/wp-content/plugins/letspush/js/app.min.js?v2.0.3";
+				fjs.parentNode.appendChild(js);
+				}(window,document, 'script', 'letspush-jssdk'));
+				letspush('subscribe','BEDtTmuJU7A1e3dWqJbVxwzCmrKji5sMe5qaHg9h_Mifl--0o8X7wjgSxHG73xXQV-j4N49YdCojRe-9PQN8g7s','https://www.iqutest.com','native');
+								letspush('show_prompt');
+							</script>
+		
+    <script type="text/javascript">
+    var ajaxurl = 'https://www.iqutest.com/wp-admin/admin-ajax.php';
+    </script>
+    <link rel="pingback" href="https://www.iqutest.com/xmlrpc.php">
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="https://www.iqutest.com/wp-content/uploads/2017/10/cropped-logo-IQuTest-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.iqutest.com/wp-content/uploads/2017/10/cropped-logo-IQuTest-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.iqutest.com/wp-content/uploads/2017/10/cropped-logo-IQuTest-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.iqutest.com/wp-content/uploads/2017/10/cropped-logo-IQuTest-270x270.png" />
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143027331-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143027331-1');
+</script>
+</head>
+
+<body class="game-template-default single single-game postid-3092 wp-custom-logo wp-embed-responsive post-image-above-header post-image-aligned-center right-sidebar nav-below-header fluid-header separate-containers active-footer-widgets-0 header-aligned-left dropdown-hover featured-image-active" itemtype="https://schema.org/Blog" itemscope>
+
+
+	
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=332829120445408&autoLogAppEvents=1" nonce="7dvTaA1X"></script>	
+	
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<header id="masthead" class="site-header" itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container grid-parent">
+				<div class="site-logo">
+				<a href="https://www.iqutest.com/" title="IQuTest.com" rel="home">
+					<img  class="header-image" alt="IQuTest.com" src="https://www.iqutest.com/wp-content/uploads/2019/03/logo.svg" title="IQuTest.com" />
+				</a>
+			</div>			</div><!-- .inside-header -->
+		</header><!-- #masthead -->
+			<div id="page" class="hfeed site grid-container container grid-parent">
+		<div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 grid-70 tablet-grid-70">
+		<main id="main" class="site-main">
+			
+<article id="post-3092" class="post-3092 game type-game status-publish has-post-thumbnail hentry genre-word-game" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+		
+		<header class="entry-header">
+			<h1 class="entry-title" itemprop="headline">Word Search</h1>		</header><!-- .entry-header -->
+
+		
+		<div class="entry-content" itemprop="text">
+			<div id = "intro">
+<p id = "instructions"></p>	
+<h3 id = "themeIntro">Words theme: <span id = "wordTheme"></span></h3>
+</div>
+
+<div id = "wordboard"></div>
+<div id = "wordlist"></div>
+<br />
+<div class="su-box su-box-style-default" id="" style="border-color:#000000;border-radius:3px"><div class="su-box-title" style="background-color:#282828;color:#FFFFFF;border-top-left-radius:1px;border-top-right-radius:1px">HOW TO PLAY</div><div class="su-box-content su-u-clearfix su-u-trim" style="border-bottom-left-radius:1px;border-bottom-right-radius:1px">The objective of this puzzle is to find and mark all the words hidden inside the grid, the words may be placed into the grid horizontal, vertical, or diagonal direction, and can be reversed.<br />
+Refresh (F5) to start New game with new word list.<br />
+</div></div>
+<hr>
+<p>Word Search Games: It takes foresight to find all the words in the list, find all the words in the list and complete all the word searches! </p>
+<div class="zosgr658340ad83bfd" ></br></br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2933184463703426"
+     data-ad-slot="5507657023"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</br></div><style type="text/css">
+@media screen and (min-width: 1201px) {
+.zosgr658340ad83bfd {
+display: block;
+}
+}
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+.zosgr658340ad83bfd {
+display: block;
+}
+}
+@media screen and (min-width: 769px) and (max-width: 992px) {
+.zosgr658340ad83bfd {
+display: block;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 768px) {
+.zosgr658340ad83bfd {
+display: block;
+}
+}
+@media screen and (max-width: 767px) {
+.zosgr658340ad83bfd {
+display: block;
+}
+}
+</style>
+<div class="fggni658340ad83c3d" ><div class="fb-like" data-href="https://www.facebook.com/IQuTestOnline" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div></div><style type="text/css">
+@media screen and (min-width: 1201px) {
+.fggni658340ad83c3d {
+display: block;
+}
+}
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+.fggni658340ad83c3d {
+display: block;
+}
+}
+@media screen and (min-width: 769px) and (max-width: 992px) {
+.fggni658340ad83c3d {
+display: block;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 768px) {
+.fggni658340ad83c3d {
+display: block;
+}
+}
+@media screen and (max-width: 767px) {
+.fggni658340ad83c3d {
+display: block;
+}
+}
+</style>
+		</div><!-- .entry-content -->
+
+			</div><!-- .inside-article -->
+</article><!-- #post-## -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="right-sidebar" class="widget-area grid-30 tablet-grid-30 grid-parent sidebar" itemtype="https://schema.org/WPSideBar" itemscope>
+	<div class="inside-right-sidebar">
+		<aside id="widget_tptn_pop-2" class="widget inner-padding tptn_posts_list_widget"><h2 class="widget-title">Popular Quizzes</h2><div class="tptn_posts  tptn_posts_widget tptn_posts_widget-widget_tptn_pop-2    tptn-text-only"><ul><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/quiz/flags-of-the-world-quiz"     class="tptn_link"><span class="tptn_title">Can You Guess This Flags of the World Quiz?</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/quiz/does-he-like-me-quiz"     class="tptn_link"><span class="tptn_title">Does He Like Me? Check with This &#x2764; Like Signals Quiz</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/quiz/disney-movies-quiz"     class="tptn_link"><span class="tptn_title">Only a True Disney Fandom can Answer This Disney Movies Quiz</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/quiz/europe-flag-quiz"     class="tptn_link"><span class="tptn_title">Can You Guess The Flags of Europe? Flag Quiz</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/quiz/marvel-comics-quiz"     class="tptn_link"><span class="tptn_title">Are You A True Marvel Comics Fan? Prove it With This Quiz</span></a></span></li></ul><div class="tptn_clear"></div></div></aside><aside id="text-3" class="widget inner-padding widget_text">			<div class="textwidget"><div class="dtrad658340ad8730f" ><center>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2933184463703426"
+     crossorigin="anonymous"></script>
+<!-- side - iqutest -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2933184463703426"
+     data-ad-slot="8595766353"
+     data-ad-format="auto"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center></div><style type="text/css">
+@media screen and (min-width: 1201px) {
+.dtrad658340ad8730f {
+display: block;
+}
+}
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+.dtrad658340ad8730f {
+display: block;
+}
+}
+@media screen and (min-width: 769px) and (max-width: 992px) {
+.dtrad658340ad8730f {
+display: block;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 768px) {
+.dtrad658340ad8730f {
+display: block;
+}
+}
+@media screen and (max-width: 767px) {
+.dtrad658340ad8730f {
+display: block;
+}
+}
+</style>
+
+</div>
+		</aside><aside id="widget_tptn_pop-4" class="widget inner-padding tptn_posts_list_widget"><h2 class="widget-title">Popular Games</h2><div class="tptn_posts  tptn_posts_widget tptn_posts_widget-widget_tptn_pop-4    tptn-text-only"><ul><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/2048-cupcakes"     class="tptn_link"><span class="tptn_title">2048 Cupcakes</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/wordle"     class="tptn_link"><span class="tptn_title">Wordle</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/couch-2048"     class="tptn_link"><span class="tptn_title">Couch 2048</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/connect-4"     class="tptn_link"><span class="tptn_title">Connect 4</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/watermelon-game"     class="tptn_link"><span class="tptn_title">Watermelon Game</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/color-lines"     class="tptn_link"><span class="tptn_title">Color Lines</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/word-search"     class="tptn_link"><span class="tptn_title">Word Search</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/hextris"     class="tptn_link"><span class="tptn_title">Hextris</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/chess"     class="tptn_link"><span class="tptn_title">Chess VS Computer</span></a></span></li><li><span class="tptn_after_thumb"><a href="https://www.iqutest.com/game/simon-game"     class="tptn_link"><span class="tptn_title">Simon Game</span></a></span></li></ul><div class="tptn_clear"></div></div></aside>	</div><!-- .inside-right-sidebar -->
+</div><!-- #secondary -->
+
+	</div><!-- #content -->
+</div><!-- #page -->
+
+      
+</br>
+<div class="grid-container grid-parent generate-sections-inside-container">
+<br><p align="center">Challenge Your IQ with Engaging <a href="https://www.iqutest.com/brain-games" target="_blank">Brain Games</a></p>
+<center><div class="pt-cv-wrapper"><div class="pt-cv-view pt-cv-grid pt-cv-colsys pt-cv-post-border" id="pt-cv-view-33497a6xqr"><div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="3"><div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3114"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/watermelon-game" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Watermelon Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/12/Watermelon-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/12/Watermelon-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/12/Watermelon-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/12/Watermelon-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Watermelon Game &#8211; Combine matching fruits into<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/watermelon-game" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3108"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/fast-math" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Fast Math Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/11/Fast-Math-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/11/Fast-Math-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/11/Fast-Math-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/11/Fast-Math-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Improve your mental calculation and reaction time.<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/fast-math" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3103"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/sliding-puzzle" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Sliding Puzzle Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/11/Sliding-Puzzle-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/11/Sliding-Puzzle-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/11/Sliding-Puzzle-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/11/Sliding-Puzzle-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Exercise your logical thinking by playing sliding<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/sliding-puzzle" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3098"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/hextris" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Hextris Puzzle Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/11/Hextris-Puzzle-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/11/Hextris-Puzzle-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/11/Hextris-Puzzle-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/11/Hextris-Puzzle-Game.jpg 956w" /></a>
+<div class="pt-cv-content">This puzzle game is inspired by tetris<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/hextris" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3095"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/couch-2048" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Couch 2048 Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/10/Couch-2048-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/10/Couch-2048-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/10/Couch-2048-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/10/Couch-2048-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Play Couch 2048 game online for free!<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/couch-2048" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3092"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/word-search" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Word Search Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/10/Word-Search-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/10/Word-Search-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/10/Word-Search-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/10/Word-Search-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Playing word search is a lot of<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/word-search" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3078"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/sudoku" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Sudoku Insane Level Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/08/Sudoku-Insane-Level-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/08/Sudoku-Insane-Level-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/08/Sudoku-Insane-Level-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/08/Sudoku-Insane-Level-Game.jpg 956w" /></a>
+<div class="pt-cv-content">This is sudoku number game with easy<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/sudoku" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3072"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/simon-game" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Simon Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/07/Simon-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/07/Simon-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/07/Simon-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/07/Simon-Game.jpg 956w" /></a>
+<div class="pt-cv-content">The Simon game has been a favorite<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/simon-game" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3062"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/matching-games" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Matching Games" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/07/Matching-Games-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/07/Matching-Games-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/07/Matching-Games-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/07/Matching-Games.jpg 956w" /></a>
+<div class="pt-cv-content">Matching Games is a fun and addictive<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/matching-games" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3015"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/color-lines" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Color Lines Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/05/Color-Lines-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/05/Color-Lines-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/05/Color-Lines-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/05/Color-Lines-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Color Lines is a fun and addictive<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/color-lines" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3013"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/connect-4" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Connect 4 Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/05/Connect-4-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/05/Connect-4-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/05/Connect-4-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/05/Connect-4-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Connect 4 is a game you won&#8217;t<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/connect-4" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3004"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/2048-cupcakes" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="2048 Cupcakes Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/05/2048-Cupcakes-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/05/2048-Cupcakes-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/05/2048-Cupcakes-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/05/2048-Cupcakes-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Indulge your cravings for both puzzles and<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/2048-cupcakes" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="3001"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/chess" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Chess VS Computer Games" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/05/Chess-VS-Computer-Games-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/05/Chess-VS-Computer-Games-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/05/Chess-VS-Computer-Games-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/05/Chess-VS-Computer-Games.jpg 956w" /></a>
+<div class="pt-cv-content">Engage your brain in challenging matches against<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/chess" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="2997"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/game/wordle" class="_self pt-cv-href-thumbnail pt-cv-thumb-default cvplbd cvp-lazy-container" target="_self" ><img width="400" height="209" src="https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/images/lazy_image.png" class="pt-cv-thumbnail img-none cvplazy" alt="Wordle Game" decoding="async" loading="lazy" data-cvpsrc="https://www.iqutest.com/wp-content/uploads/2023/05/Wordle-Game-400x209.jpg" data-cvpset="https://www.iqutest.com/wp-content/uploads/2023/05/Wordle-Game-400x209.jpg 400w, https://www.iqutest.com/wp-content/uploads/2023/05/Wordle-Game-768x402.jpg 768w, https://www.iqutest.com/wp-content/uploads/2023/05/Wordle-Game.jpg 956w" /></a>
+<div class="pt-cv-content">Wordle is a popular online word-guessing game<br /><div class="pt-cv-rmwrap"><a href="https://www.iqutest.com/game/wordle" class="_self pt-cv-readmore btn btn-success cvplbd" target="_self">Play</a></div></div></div></div></div></div></div>			<style type="text/css" id="pt-cv-inline-style-d2e6049su5">#pt-cv-view-33497a6xqr.pt-cv-post-border { margin: 0; border-top-width: 1px; border-left-width: 1px }
+#pt-cv-view-33497a6xqr.pt-cv-post-border { margin: 0; border-top-style: solid; border-left-style: solid }
+#pt-cv-view-33497a6xqr.pt-cv-post-border .pt-cv-content-item   { border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; }
+#pt-cv-view-33497a6xqr .pt-cv-title a, #pt-cv-view-33497a6xqr  .panel-title { font-weight: 600 !important; }
+#pt-cv-view-33497a6xqr  .pt-cv-hover-wrapper::before   { background-color: rgba(0,0,0,.3) !important; }
+#pt-cv-view-33497a6xqr  .pt-cv-content-item:hover .pt-cv-hover-wrapper::before   { background-color: rgba(51,51,51,.6) !important; }
+#pt-cv-view-33497a6xqr:not(.pt-cv-nohover) .pt-cv-mask *   { color: #fff; }
+#pt-cv-view-33497a6xqr .pt-cv-carousel-caption  { background-color: rgba(51,51,51,.6) !important; }
+#pt-cv-view-33497a6xqr .pt-cv-specialp { background-color: #CC3333 !important }
+#pt-cv-view-33497a6xqr .pt-cv-specialp * { color: #fff !important; }
+#pt-cv-view-33497a6xqr .pt-cv-pficon  { color: #bbb !important; }
+#pt-cv-view-33497a6xqr  .add_to_cart_button, #pt-cv-view-33497a6xqr  .add_to_cart_button *   { color: #ffffff !important; background-color: #00aeef !important; }
+#pt-cv-view-33497a6xqr  .woocommerce-onsale   { color: #ffffff !important; background-color: #ff5a5f !important; }
+#pt-cv-view-33497a6xqr .pt-cv-readmore  { color: #ffffff !important; background-color: #00aeef !important; margin-left: auto !important; margin-right: auto !important; float: none !important; display: table !important; text-align: center !important; clear: both !important; }
+#pt-cv-view-33497a6xqr .pt-cv-readmore:hover  { color: #ffffff !important; background-color: #00aeef !important; }
+#pt-cv-view-33497a6xqr  + .pt-cv-pagination-wrapper .pt-cv-more , #pt-cv-view-33497a6xqr  + .pt-cv-pagination-wrapper .pagination .active a { color: #ffffff !important; background-color: #00aeef !important; }
+[id^='pt-cv-filter-bar-33497a6xqr'] .active.pt-cv-filter-option, [id^='pt-cv-filter-bar-33497a6xqr'] .active .pt-cv-filter-option, [id^='pt-cv-filter-bar-33497a6xqr'] .selected.pt-cv-filter-option, [id^='pt-cv-filter-bar-33497a6xqr'] .dropdown-toggle   { color: #fff !important; background-color: #00aeef !important; }
+[id^='pt-cv-filter-bar-33497a6xqr'] .pt-cv-filter-title   { color: #fff !important; background-color: #00aeef !important; }
+#pt-cv-gls-33497a6xqr li a.pt-active   { color: #fff !important; background-color: #ff5a5f !important; }
+#pt-cv-view-33497a6xqr .pt-cv-gls-header  { color: #fff !important; background-color: #00aeef !important; }</style>
+			</center>
+<br>
+<center><div class="pt-cv-wrapper"><div class="pt-cv-view pt-cv-grid pt-cv-colsys pt-cv-nolf pt-cv-pginfinite pt-cv-sharp-buttons" id="pt-cv-view-7f8ebd7ut1"><div data-id="pt-cv-page-1" class="pt-cv-page" data-cvc="3"><div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="1928"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/numerical-test-number-nets" class="_blank pt-cv-href-thumbnail pt-cv-thumb-default cvplbd" target="_blank" ><img width="392" height="200" src="https://www.iqutest.com/wp-content/uploads/2018/04/IQ-Test-Numerical-Number-Nets.jpg" class="pt-cv-thumbnail img-none" alt="IQ Test Numerical Number Nets" decoding="async" loading="lazy" /></a>
+<h3 class="pt-cv-title"><a href="https://www.iqutest.com/numerical-test-number-nets" class="_blank cvplbd" target="_blank" >IQ Test Numerical [Number Nets]</a></h3></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="1906"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/spatial-test-pattern-matching" class="_blank pt-cv-href-thumbnail pt-cv-thumb-default cvplbd" target="_blank" ><img width="392" height="200" src="https://www.iqutest.com/wp-content/uploads/2018/04/IQ-Test-Spatial-Pattern-Matching.jpg" class="pt-cv-thumbnail img-none" alt="IQ Test Spatial Pattern Matching" decoding="async" loading="lazy" /></a>
+<h3 class="pt-cv-title"><a href="https://www.iqutest.com/spatial-test-pattern-matching" class="_blank cvplbd" target="_blank" >IQ Test Spatial [Pattern Matching]</a></h3></div></div>
+<div class="col-md-4 col-sm-6 col-xs-12 pt-cv-content-item pt-cv-1-col"  data-pid="1823"><div class='pt-cv-ifield'><a href="https://www.iqutest.com/numerical-test-number-matrices" class="_blank pt-cv-href-thumbnail pt-cv-thumb-default cvplbd" target="_blank" ><img width="392" height="200" src="https://www.iqutest.com/wp-content/uploads/2018/04/IQ-Test-Numerical-Matrices.jpg" class="pt-cv-thumbnail img-none" alt="IQ Test Numerical Number Matrices" decoding="async" loading="lazy" /></a>
+<h3 class="pt-cv-title"><a href="https://www.iqutest.com/numerical-test-number-matrices" class="_blank cvplbd" target="_blank" >IQ Test Numerical [Number Matrices]</a></h3></div></div></div></div>
+<div class="text-left pt-cv-pagination-wrapper"><button class="pt-cv-more btn btn-primary btn-sm" data-totalpages="6" data-nextpages="2" data-sid="7f8ebd7ut1" data-unid="">More <span class="caret"></span></button><img width="15" height="15" class="pt-cv-spinner" alt="Loading..." src="data:image/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP///yH/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM/DJKZNLND/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw==" /><div class="clear pt-cv-clear-pagination"></div></div></div>			<style type="text/css" id="pt-cv-inline-style-f4a3497x9c">#pt-cv-view-7f8ebd7ut1.pt-cv-post-border { margin: 0; border-top-width: 1px; border-left-width: 1px }
+#pt-cv-view-7f8ebd7ut1.pt-cv-post-border { margin: 0; border-top-style: solid; border-left-style: solid }
+#pt-cv-view-7f8ebd7ut1.pt-cv-post-border .pt-cv-content-item   { border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; }
+#pt-cv-view-7f8ebd7ut1 .pt-cv-title a, #pt-cv-view-7f8ebd7ut1  .panel-title { font-weight: 600 !important; }
+#pt-cv-view-7f8ebd7ut1 .pt-cv-readmore  { color: #ffffff !important; background-color: #00aeef !important; }
+#pt-cv-view-7f8ebd7ut1 .pt-cv-readmore:hover  { color: #ffffff !important; background-color: #00aeef !important; }
+#pt-cv-view-7f8ebd7ut1  + .pt-cv-pagination-wrapper .pt-cv-more , #pt-cv-view-7f8ebd7ut1  + .pt-cv-pagination-wrapper .pagination .active a { color: #ffffff !important; background-color: #00aeef !important; }</style>
+			</center>
+</div>
+
+
+<div class="site-footer">
+			<footer class="site-info" itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container grid-parent">
+								<div class="copyright-bar">
+					English (US)   <a href="https://de.iqutest.com" target="_blank">Deutsch</a>   </br>
+Copyright &copy; 2023 IQuTest.com. <a href="https://www.iqutest.com/brain-games" target="_blank">Brain Games</a> | <a href="https://www.iqutest.com/quizzes" target="_blank">Quizzes</a> \ <a href="https://www.iqutest.com/about-us" target="_blank">About Us</a> \ <a href="https://www.iqutest.com/privacy-policy" target="_blank">Privacy Policy</a> \ <a href="https://www.iqutest.com/terms-of-use" target="_blank">Terms of Use</a> \ <a href="https://www.iqutest.com/contact-us" target="_blank">Contact Us</a></br>
+Handcrafted with love <i class='fa fa-fw fa-heart ' style='color: red'></i> in California (US).				</div>
+			</div>
+		</footer><!-- .site-info -->
+		</div><!-- .site-footer -->
+
+
+<script src = "https://www.iqutest.com/games/wordsearch/wordpaths.js"></script>
+<script src = "https://www.iqutest.com/games/wordsearch/wordsearchcontroller.js"></script>
+<script src = "https://www.iqutest.com/games/wordsearch/wordsearchlogic.js"></script>
+<script src = "https://www.iqutest.com/games/wordsearch/wordsearchview.js"></script>
+
+		<script>	
+			$(document).ready( function() {
+				new WordSearchController("#wordboard", "#wordlist", "#solveButton", "#newGameButton", "#instructions", 
+					"#wordTheme");
+			})
+		</script>
+            <style>
+wplppPromptWrapper{
+   position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.8);
+    z-index: 10000000000000;
+    display: none;
+}               
+                wplppprompt{display:block;}
+                wplpppromptcontainer{
+                    padding: 20px;
+                    background: #fff;
+                    box-sizing: border-box;
+                    width: 450px;
+                    position: fixed;
+                    top: 10px;
+                    left:calc(50% - 225px);
+                    border:1px solid #dedddd;
+                    z-index:100000000;
+                    
+                }
+                wplppprompticon{
+                    width: 20%;
+                    float: left;
+                    display: block;
+                    margin: 0 auto;
+                    text-align: left;
+                }
+                wplppPromptIcon img{width:70px;}
+                wplppPromptText{
+                    width: 75%;
+                    float: left;
+                    text-align: left;
+                    font-size: 16px;
+                    padding-left: 10px;
+                    color:#000000                }
+                wplppPromptText{
+                }
+                wplppPromptHeading{
+                    display: block;
+                    position: relative;
+                    text-align: initial;
+                    font-weight: 600;
+                    font-size: 16px;
+                    color: #333333;
+                    padding-bottom: 7px;
+                    font-family: sans-serif !important;
+                }
+                wplppPromptMessage{
+                    font-family: sans-serif !important;
+                    display: block;
+                    font-size: 16px;
+                    text-align: initial;
+                    font-weight: 100;
+                    line-height: 20px;
+                }
+                wplppPromptButtons{
+                    position: relative;
+                    display: inline-block;
+                    clear: both;
+                    width: 100%;
+                    font-size: 10px;
+                    padding-top: 20px;
+                    padding-bottom: 0px;
+                    direction: ltr;  
+                    text-align:right;              
+                }
+                wplppPromptButton{
+                  cursor: pointer;
+                  transition: all 60ms ease-in-out;
+                  text-align: center;
+                  white-space: nowrap;
+                  color: #333;
+                  border: 0 none;
+                  border-radius: 2px;
+                  padding: 7px 20px;
+                  font-size: 16px;
+                  font-family: sans-serif !important;
+                  display: inline-block;
+                  background: blue;
+                  min-width: 105px;
+                  margin: 0 5px;
+                  color: #fff;
+                  box-sizing: border-box;
+                }
+                wplpppromptdismissbtn wplpppromptbutton{
+                    background:#e9326a;
+                    color:#ffffff;
+                }
+                wplpppromptapprovebtn wplpppromptbutton{
+                    background:#17a2ff;
+                    color:#ffffff;
+
+                }
+                @media(max-width:550px){
+                  wplpppromptcontainer{
+                     width: 100%;
+                     left: 0;
+                     bottom: 0;
+                     top: unset;
+                     position: fixed;
+                     box-shadow: 1px 1px 10px #adadad;
+                  }
+                }
+            </style>
+<wplppPromptWrapper>            
+<wplppPromptContainer>
+   <wplppPrompt>
+      <wplppPromptIcon>
+         <img src="https://www.iqutest.com/wp-content/uploads/2017/10/cropped-logo-IQuTest.png" alt=''>
+      </wplppPromptIcon>
+      <wplppPromptText>
+         <wplppPromptHeading>
+            IQuTest.com         </wplppPromptHeading>
+         <wplppPromptMessage>
+            Would you like to receive notifications on latest updates?         </wplppPromptMessage>
+      </wplppPromptText>
+      <wplppPromptButtons>
+         <wplppPromptDismissBtn>
+            <wplppPromptButton onclick="letspush('prompt_action','Dismiss')">No</wplppPromptButton>
+         </wplppPromptDismissBtn>
+         <wplppPromptApproveBtn>
+            <wplppPromptButton onclick="letspush('prompt_action','Approve')">Yes</wplppPromptButton>
+         </wplppPromptApproveBtn>
+      </wplppPromptButtons>
+   </wplppPrompt>
+</wplppPromptContainer>
+</wplppPromptWrapper><link rel='stylesheet' id='su-shortcodes-css' href='https://www.iqutest.com/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css' type='text/css' media='all' />
+<script type='text/javascript' id='pt-cv-content-views-script-js-extra'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"125eb342d0","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/www.iqutest.com\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw==","is_mobile_tablet":"","sf_no_post_found":"No posts found."};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.iqutest.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js' id='pt-cv-content-views-script-js'></script>
+<script type='text/javascript' src='https://www.iqutest.com/wp-content/plugins/pt-content-views-pro/public/assets/js/cvpro.min.js' id='pt-cv-public-pro-script-js'></script>
+<script type='text/javascript' id='tptn_tracker-js-extra'>
+/* <![CDATA[ */
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/www.iqutest.com\/","top_ten_id":"3092","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"428488645"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.iqutest.com/wp-content/plugins/top-10/includes/js/top-10-tracker.min.js' id='tptn_tracker-js'></script>
+<!--[if lte IE 11]>
+<script type='text/javascript' src='https://www.iqutest.com/wp-content/themes/generatepress/js/classList.min.js' id='generate-classlist-js'></script>
+<![endif]-->
+<script id='pt-cv-append-scripts'>if( PT_CV_PAGINATION ) { PT_CV_PAGINATION.links = {"page_1":"https:\/\/www.iqutest.com\/game\/word-search\/","page_n":"https:\/\/www.iqutest.com\/game\/word-search\/?_page=_CVNUMBER_"}; }
+            </script>
+</body>
+</html>
